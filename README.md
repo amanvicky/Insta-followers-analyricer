@@ -1,7 +1,8 @@
 # Instagram Profile Checker (Windows)
 
-A small desktop app that signs in to **your own** Instagram account, takes a list of
-usernames, and reports for each one:
+Analyze any Instagram username from a list. Public mode needs no sign-in; Session mode
+can access additional data visible to your account. Private profiles and Instagram's
+restrictions may limit which details are available.
 
 - **Username** (as checked)
 - **Alive?** — is the account accessible? `No` means Instagram reports no such account
