@@ -1,0 +1,12 @@
+.venv/
+build/
+dist/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.vscode/
+*.csv
+*.log
+/InstagramProfileChecker.spec
+/docs/ideas/

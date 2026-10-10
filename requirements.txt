@@ -1,0 +1,5 @@
+instagrapi==3.0.15
+pydantic>=2.0
+curl_cffi>=0.7
+Pillow>=10.0.0
+requests>=2.31
